@@ -1,5 +1,5 @@
 # Dinesafe-MCMC
-A Bayesian approach to zero-inflated count data with an application to regulatory compliance data. Markov Chain Monte Carlo (MCMC) was used on Toronto's Dinesafe data to explore the so-called "downtown" effect.
+A Bayesian approach to zero-inflated count data with an application to regulatory compliance data. Markov Chain Monte Carlo (MCMC) was used on Toronto's Dinesafe data to explore the likelihood of observing any infraction in the inspection at the targeted establishment and the so-called "downtown" effect.
 
 ### Dinesafe data
 
