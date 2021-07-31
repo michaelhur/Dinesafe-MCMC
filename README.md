@@ -6,12 +6,12 @@ A Bayesian approach to zero-inflated count data with an application to regulator
 The dataset used in this project, "dinesafe.xml", can be found under the "data" folder. It was originally retreived from the following website:
 
 ```
-https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=b54a5f9cd70bb210VgnVCM1000003dd60f89RCRD&vgnextchannel=09c6e03bb8d1e310VgnVCM10000071d60f89RCRD
+https://open.toronto.ca/dataset/dinesafe/
 ```
 
 To use the dataset for other purposes, please consult the "Licence" page of Toronto's Open Data Catalogue: 
 ```
-https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4a37e03bb8d1e310VgnVCM10000071d60f89RCRD
+https://open.toronto.ca/open-data-license/
 ```
 
 ### Prerequisites
